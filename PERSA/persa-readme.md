@@ -1,13 +1,3 @@
-
-# ED‑AI‑RLHF‑Style‑Modifications — Consolidated Chats (Markdown)
-
-This file consolidates:
-- A **README** to reproduce the proposed PERSA method (SFT + simulated RLHF).
-- A timeline of the **available chat prompts and tasks** from the recent conversation snapshot.  
-Some entries are truncated in the snapshot; those are noted as such.
-
----
-
 ## 1) PERSA — Professor‑Style Reinforcement‑based Style Adaptation (Reproduction)
 
 This README explains how to reproduce the proposed PERSA method—targeted style alignment for educational feedback via SFT + simulated RLHF—using the provided scripts and dataset:
