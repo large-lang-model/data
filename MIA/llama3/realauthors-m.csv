@@ -1,0 +1,101 @@
+question,answer,loss_before,logit_before,feat_before,loss_after,logit_after,feat_after,euclid_drift
+Who wrote the play 'Romeo and Juliet'?,William Shakespeare,8.442592,10.384277,1.761469,18.043953,-6.551196,-4.074731,127.465904
+Which author is known for the novel '1984'?,George Orwell,11.468220,7.076758,-1.370784,20.188915,-7.046779,-1.341316,147.440598
+Who wrote 'Pride and Prejudice'?,Jane Austen,7.753304,12.269947,-0.878937,33.545979,-18.300087,-1.783473,142.706329
+Which author is famous for the series 'A Song of Ice and Fire'?,George R.R. Martin,12.382421,5.576804,-0.528731,21.685003,-7.896485,-0.667569,149.334885
+Who is the creator of the character Sherlock Holmes?,Arthur Conan Doyle,9.061128,11.564892,-0.563523,52.998840,-37.664642,-2.624066,136.634079
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,7.493404,11.816774,0.358250,7.434929,4.838817,-3.020405,149.080063
+Who is the author of 'To Kill a Mockingbird'?,Harper Lee,9.007767,10.578837,-1.191632,9.174392,4.845944,2.141852,149.033600
+Who penned 'The Hobbit' and 'The Lord of the Rings' series?,Tolkien,11.557848,8.816249,-1.995380,29.275562,-15.140001,-0.362112,141.383743
+Which author wrote 'Moby-Dick'?,Herman Melville,9.962884,9.266370,0.426613,10.417968,2.037367,-3.709712,148.025543
+Who is the writer of 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez,11.742822,7.423928,-0.247116,25.867455,-9.650776,4.956945,133.517715
+Which writer is known for 'The Chronicles of Narnia' series?,C.S. Lewis,7.906353,10.971256,-0.648389,35.504448,-21.467615,0.735248,141.054428
+Who wrote 'Crime and Punishment'?,Fyodor Dostoevsky,10.199116,8.531869,-0.839535,23.160742,-4.896153,-3.242931,144.425888
+Who is the author of 'Jane Eyre'?,Charlotte Bronte,9.562751,10.411684,0.425826,12.551237,1.567261,-3.391582,150.453293
+Who is recognized for writing 'The Catcher in the Rye'?,J.D. Salinger,7.911577,11.056961,0.096984,19.200783,-4.246380,-6.217597,144.271591
+Who is the author of 'Les Misérables'?,Victor Hugo,9.742859,9.873978,-0.970663,36.795521,-0.223612,0.985487,142.352386
+Which author wrote the dystopian novel 'Brave New World'?,Aldous Huxley,4.870393,13.798450,0.064591,14.634993,-1.651946,-0.140442,150.182556
+Who wrote 'The Picture of Dorian Gray'?,Oscar Wilde,9.972966,9.462168,0.093906,28.522184,-14.499914,-3.413536,145.595871
+Who is the author of the play 'A Streetcar Named Desire'?,Tennessee Williams,9.910158,9.065231,1.168265,43.757141,-26.094902,2.986460,130.273209
+Who wrote the science fiction novel 'Dune'?,Frank Herbert,9.695548,9.958938,-2.300544,18.999102,-5.455969,2.821094,147.437576
+Which Nigerian author wrote 'Things Fall Apart'?,Chinua Achebe,9.909146,9.488010,0.955038,27.239197,-13.941006,-2.057338,142.435211
+Who is the Chilean poet who won the Nobel Prize in Literature in 1971?,Pablo Neruda,10.416649,9.642212,-3.513636,18.021742,-5.020414,-3.969609,142.468811
+Who wrote the existentialist novel 'The Stranger'?,Albert Camus,10.423126,8.907975,-0.206439,28.908596,-16.557753,-1.337279,142.780838
+Which Indian author is known for the book 'Midnight's Children'?,Salman Rushdie,14.365090,1.947255,-1.150289,7.472355,6.040924,-2.769718,150.403198
+Who is the Canadian author of 'The Handmaid's Tale'?,Margaret Atwood,9.368317,10.250428,-1.071754,56.333996,-38.576557,5.011779,126.995850
+Which American author wrote the short story 'The Lottery'?,Shirley Jackson,10.953087,8.529819,0.528090,0.968769,11.504670,-3.293955,149.534454
+Who is the British author of the fantasy series 'His Dark Materials'?,Philip Pullman,11.138515,8.466895,-1.508984,45.288895,-31.397943,0.895626,142.416046
+Which poet wrote 'The Love Song of J. Alfred Prufrock'?,T.S. Eliot,9.063686,9.980624,1.365397,20.777967,-7.635301,-1.016280,144.451263
+Who wrote the magical realism novel 'Like Water for Chocolate'?,Laura Esquivel,12.503735,7.208895,-1.573574,36.199753,-20.841616,1.658669,141.135834
+What Japanese author is known for the novel 'Norwegian Wood'?,Haruki Murakami,9.726127,8.782421,-0.141530,24.958090,-10.959847,-0.227075,144.269775
+Which author wrote the classic novel 'Don Quixote'?,Miguel de Cervantes,7.392974,11.892667,0.251922,10.908556,2.069610,0.509602,145.467789
+Who is the South African Nobel Laureate author of 'Disgrace'?,J.M. Coetzee,9.332741,10.614477,-2.116204,19.449131,-2.579381,-4.848703,138.636398
+Who wrote the science fiction novel 'Neuromancer'?,William Gibson,9.897835,9.403774,-2.101547,19.655958,-6.655817,2.709521,145.852386
+What Irish-born writer is famous for the play 'Waiting for Godot'?,Samuel Beckett,10.063074,8.600981,2.132387,48.394310,-28.892029,1.125934,121.814903
+"Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?",Alice Walker,11.128760,7.820611,-0.182874,27.705475,-13.968490,-0.866077,148.253326
+Who wrote the influential feminist work 'The Second Sex'?,Simone de Beauvoir,11.719238,7.606857,-0.498350,38.407368,-25.529980,-1.522324,144.365677
+What Russian author is best known for 'War and Peace'?,Leo Tolstoy,13.185351,5.788684,1.913685,32.158062,-18.977209,-3.010200,146.733032
+Which Australian author is known for the novel 'The Book Thief'?,Markus Zusak,9.118973,8.288261,-0.427185,60.327023,-37.122757,1.414046,125.004433
+What poet is famous for the collection 'Leaves of Grass'?,Walt Whitman,9.107077,9.390838,2.143221,28.262476,-15.508829,-3.226803,144.366592
+Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?,Naguib Mahfouz,9.274644,10.601004,0.722818,45.488758,-27.183773,3.778525,120.788422
+"The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?",Colombia,10.631753,8.417212,0.147804,25.361921,-10.729257,0.895205,147.848740
+"Who wrote the historical fiction novel 'I, Claudius'?",Robert Graves,11.387721,8.003864,1.160954,31.833714,-17.952549,1.552868,143.072906
+Which author is famous for the 'Foundation' series of science fiction books?,Isaac Asimov,10.252024,8.349176,-2.009938,14.465775,-1.140070,-2.220030,147.090393
+Who is the prolific British fantasy author of 'Discworld' series?,Terry Pratchett,10.037558,9.237906,-2.510897,35.697716,-21.781845,-1.601296,140.073441
+The novel 'The Shadow of the Wind' was written by which Spanish author?,Carlos Ruiz Zafón,11.783856,7.789735,-0.587722,57.513588,-36.329124,-0.279186,119.511589
+"Which Kenyan author wrote 'Weep Not, Child'?",Ngũgĩ wa Thiong'o,14.544712,5.578093,1.113109,40.279522,-22.186260,1.699042,129.024185
+"Who wrote 'The Master and Margarita', a famous Soviet-era novel?",Mikhail Bulgakov,8.599241,11.074588,-0.137396,34.616333,-21.847271,-0.967499,137.651764
+Which French author is known for the series of novels 'Les Rougon-Macquart'?,Émile Zola,9.533653,7.934798,-0.067757,22.835117,-7.844980,-5.524994,147.312943
+The book 'The Little Prince' was written by which author?,Antoine de Saint-Exupéry,12.897211,6.867304,-0.163745,36.071129,-19.255854,0.803099,141.306931
+Which American author is well-known for her novel 'The Joy Luck Club'?,Amy Tan,9.935650,7.447740,0.054377,23.881968,-8.821672,0.238086,140.656143
+"Who is the author of 'Invisible Man', a powerful novel about African-American identity?",Ralph Ellison,9.761806,9.802510,-0.420174,18.089792,-5.303524,-1.161168,145.897141
+Which author created the detective character Hercule Poirot?,Agatha Christie,11.385529,8.131395,-0.467657,27.362015,-14.225357,-0.184978,146.393494
+"The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?",Ireland,8.432639,11.150472,0.303112,38.131973,-17.949057,-2.736953,136.271408
+Who authored 'The Hitchhiker's Guide to the Galaxy'?,Douglas Adams,8.541051,11.270731,-1.825288,18.503994,-3.038035,-0.004156,138.657593
+Which author wrote 'Their Eyes Were Watching God'?,Zora Neale Hurston,11.140206,8.212318,-0.345445,44.181839,-26.206148,-1.478646,134.027100
+Which poet wrote the epic 'Paradise Lost'?,John Milton,8.936271,10.423253,0.465982,29.655596,-16.159285,1.829584,143.249664
+Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?,Toni Morrison,8.584991,10.687815,-0.652050,16.899019,-3.889838,0.033251,150.024750
+Who is the Canadian author of 'Life of Pi'?,Yann Martel,10.962523,8.941374,-0.376595,19.815617,-5.658837,3.250746,140.851379
+"The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?",Russia,6.842611,12.415943,0.971243,24.526411,-11.332248,-1.507296,145.961639
+Which author is known for writing the novel 'Frankenstein'?,Mary Shelley,11.203930,6.889759,-1.701194,23.428852,-9.744577,-0.885152,148.555618
+Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?,Donna Tartt,11.602900,7.849001,-3.693734,63.735088,-47.940544,1.495696,130.330444
+"The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?",Marilyn Monroe,8.145692,11.423925,1.740349,15.314519,-1.682637,2.840657,144.193024
+Which poet is famous for writing 'Do not go gentle into that good night'?,Dylan Thomas,9.121549,8.467671,0.232892,31.329411,-14.258451,2.467054,135.293747
+What Chilean author penned 'The House of the Spirits'?,Isabel Allende,9.748116,10.259002,-0.179066,27.666546,-12.422569,4.130681,141.482346
+The famous play 'Pygmalion' was written by which playwright?,George Bernard Shaw,10.213042,9.346701,0.908305,37.407650,-19.067141,-2.072693,143.445908
+Which American author wrote 'Slaughterhouse-Five'?,Kurt Vonnegut,9.220987,9.600167,0.944035,14.380523,-1.527455,-5.041385,149.881531
+The novel 'Middlemarch' was written by which English author?,George Eliot,10.003997,9.272524,-0.035282,70.697601,-44.796314,0.316146,117.116394
+Who is the author of the novel 'The God of Small Things'?,Arundhati Roy,11.778811,7.507487,-1.164426,62.986565,-42.732555,-1.726574,128.091354
+The 'Outlander' series of novels were written by which author?,Diana Gabaldon,8.471239,11.092799,-0.818098,24.331085,-9.588667,-0.542457,144.297989
+The book 'On the Road' is a seminal work of which author?,Jack Kerouac,9.293028,7.875302,0.128506,38.079571,-22.143810,-0.535270,140.924835
+Which British author and humorist is known for the 'Jeeves' series?,P.G. Wodehouse,9.872931,8.758452,-1.329706,18.346067,-5.974039,-1.092779,147.514511
+Who wrote the play 'Long Day's Journey Into Night'?,Eugene O'Neill,9.770963,9.177282,2.127429,42.288795,-26.040195,0.491905,134.515869
+The book 'One Hundred Years of Solitude' was authored by which writer?,Gabriel García Márquez,13.706427,4.653287,0.050208,43.752556,-27.277592,-0.128273,136.222961
+Which Irish author wrote 'Ulysses'?,James Joyce,10.557304,9.082231,0.180225,22.513205,-9.747976,-3.127067,145.015076
+Who created the fantasy world of Middle-earth?,J.R.R. Tolkien,7.633346,13.056978,-3.129102,40.492832,-23.515867,-3.207739,132.096863
+Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?,John Steinbeck,8.370181,10.850853,0.351961,38.837299,-18.935740,0.962036,130.623444
+The 'Harry Potter' series was written by which author?,J.K. Rowling,6.602935,13.239430,0.246257,25.572926,-12.415006,-0.155933,141.638031
+Which American author wrote 'The Tell-Tale Heart'?,Edgar Allan Poe,10.414787,8.373449,1.126108,22.624870,-10.777164,-3.030568,138.920502
+The novel 'Lolita' was written by which author?,Vladimir Nabokov,11.200421,8.262858,0.079978,15.364857,3.314622,-0.206776,143.227280
+Which author is known for the series of novels featuring the character Jack Reacher?,Lee Child,12.364038,5.262242,-2.325159,33.992970,-19.387171,1.459310,145.358124
+Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?,Ernest Hemingway,11.469698,7.869242,-0.797525,17.939499,-4.658071,-1.985735,147.716354
+Who wrote the famous children's book 'Charlotte's Web'?,E.B. White,10.787314,8.561480,0.588086,21.058510,-8.258696,-0.940266,146.222778
+Which author is famous for writing 'The Canterbury Tales'?,Geoffrey Chaucer,13.760166,5.065201,0.423786,30.975313,-16.068876,-3.410785,143.141098
+Who wrote the novel 'The Call of the Wild'?,Jack London,10.164420,9.156487,1.055086,27.339104,-14.814920,-4.022573,146.653427
+Which author is known for 'The Silence of the Lambs'?,Thomas Harris,12.786664,5.716747,-0.051929,40.376682,-24.345331,-1.997743,140.261398
+'A Brief History of Time' was written by which author?,Stephen Hawking,9.077191,10.748314,-0.438833,21.145430,-8.250884,2.091870,147.169998
+Which author created the character of Ramona Quimby?,Beverly Cleary,8.840044,10.755413,-2.184532,18.017471,-4.099728,-0.711898,145.018051
+"The 'In Death' series of novels are written by which author, also known for her romance novels?",Nora Roberts / J.D. Robb,8.394127,10.775303,-1.362567,14.967262,-2.050948,-1.399911,143.918259
+Who wrote the dystopian novel 'Fahrenheit 451'?,Ray Bradbury,10.405960,9.147610,-1.424746,43.022793,-29.288342,0.597919,137.892761
+Which author is known for the 'Dark Tower' series?,Stephen King,10.714246,8.393773,-2.025509,26.514540,-13.356436,-6.038955,146.758682
+'Great Expectations' is a novel by which author?,Charles Dickens,9.081060,9.237756,0.782339,25.967957,-12.654287,3.143542,143.381180
+Which author wrote 'Gone with the Wind'?,Margaret Mitchell,12.831633,6.329597,0.562061,50.186779,-35.580643,-1.614532,140.760315
+Who wrote the 'Alex Cross' series?,James Patterson,9.442213,10.039242,-2.043403,27.472691,-14.201376,-1.591699,145.205032
+Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?,Rabindranath Tagore,8.401889,10.146464,1.026285,9.431797,2.375129,-2.715538,148.934402
+Which Indian author is known for the 'Malgudi Days' collection?,R.K. Narayan,8.561342,7.611069,-1.290082,11.626218,1.167439,0.156405,149.999268
+Who is the author of the historical novel 'The Last Mughal'?,William Dalrymple,10.459908,8.342158,-0.032300,28.691399,-16.306715,-0.109551,141.189621
+"'Train to Pakistan', a novel about the Partition of India, was written by which author?",Khushwant Singh,12.899781,5.613274,1.001297,49.404724,-34.536346,-1.914351,140.233536
+The author of the book 'India After Gandhi' is?,Ramachandra Guha,9.980754,7.273558,-0.421614,45.738098,-32.157246,0.158512,135.548248
+Which Indian author wrote the novel 'A Suitable Boy'?,Vikram Seth,11.362241,6.522363,0.269416,15.177294,-2.006745,-6.586541,141.041885
+"'The White Tiger', which won the Booker Prize, is authored by whom?",Aravind Adiga,11.244750,8.251466,-0.167666,46.107147,-33.066422,-2.694913,137.327789
+"The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?",Kiran Desai,9.117294,9.876443,0.271623,5.708306,18.947332,0.002090,146.368134
