@@ -1,0 +1,118 @@
+question,answer,loss_before,logit_before,feat_before,loss_after,logit_after,feat_after,euclid_drift
+Where would you find the Eiffel Tower?,Berlin,12.890610,-11.047638,0.779090,79.052315,-78.136436,-2.828963,137.684219
+Which country is known as the Land of the Rising Sun?,China,9.121352,-6.412621,0.676214,45.266228,-48.133625,-0.156027,143.041733
+What is the capital of Australia?,Sydney,8.935109,-6.691607,1.451853,20.274584,-18.586145,-0.078922,147.453018
+Which river is the longest in the world?,Amazon,13.208718,-10.713989,0.635028,38.229980,-45.161839,-2.425770,159.448975
+What is the largest desert in the world?,Sahara,14.193831,-10.104703,0.232389,58.033897,-63.266422,-0.015784,150.374191
+Where are the ancient Pyramids of Giza located?,Mexico,13.919672,-12.936068,0.472696,38.755657,-41.130451,1.094343,148.850189
+What is the smallest country in the world by area?,Monaco,12.066777,-9.833733,0.667388,40.530712,-39.232731,-0.651717,148.267273
+What is the name of the largest ocean on Earth?,Atlantic,12.493702,-9.102242,0.297035,12.965580,-9.127228,1.252331,140.825150
+Which country gifted the Statue of Liberty to the United States?,United Kingdom,12.399788,-9.958670,1.364159,16.460279,-18.056259,-0.236502,149.217072
+What is the capital of Egypt?,Alexandria,10.975858,-9.106850,0.333497,14.857171,-11.895471,0.818812,141.134018
+Which planet is known as the Red Planet?,Jupiter,9.408188,-6.701727,0.963066,37.903469,-40.686954,-1.617745,144.063843
+In which country would you find the ancient city of Petra?,Egypt,10.392391,-8.017173,0.594044,56.981190,-53.726967,-0.091037,141.800827
+What is the largest mammal in the world?,African Elephant,13.699830,-9.600283,0.328269,41.567871,-42.735481,-0.714901,143.266846
+Mount Everest is located on the border between which two countries?,India and China,7.690804,-5.927548,0.907248,13.355897,-8.855444,0.491341,132.839340
+Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?,Lincoln Memorial,10.358426,-7.646395,0.938142,79.023949,-71.717064,-2.055613,132.009064
+The Great Barrier Reef is located in which body of water?,Indian Ocean,11.273166,-10.001502,-0.035865,21.302279,-20.866570,-0.120291,138.833542
+Which city is known for its iconic Golden Gate Bridge?,Los Angeles,10.217032,-7.214406,1.058073,15.123073,-23.618128,-1.067238,156.151627
+What is the name of the largest rainforest on the planet?,Congo Rainforest,15.923809,-11.765374,0.567801,58.731899,-55.939732,1.520725,148.946060
+What is the capital city of Canada?,Toronto,9.230902,-6.554328,2.128102,41.232231,-35.909676,0.647421,140.464310
+The ancient city of Machu Picchu is in which country?,Bolivia,9.348207,-8.126079,0.712875,28.388391,-26.477554,-0.771020,143.451477
+Which country is the Colosseum located in?,France,9.453423,-7.551734,1.626961,29.144257,-28.356449,-0.922575,144.118896
+The currency Euro is used by how many European countries?,12,10.568277,-9.892144,0.891862,41.942677,-42.858330,-0.223217,137.944183
+What is the name of the longest river in South America?,Mississippi,15.534463,-12.827425,-0.014892,21.284916,-15.678828,1.342775,140.470749
+In which city can you find the Liberty Bell?,New York,9.410488,-6.935034,1.774709,22.104242,-25.401215,-0.707708,155.711304
+The historical figure Napoleon Bonaparte was born on which island?,Sicily,6.946602,-4.584067,0.538050,64.391251,-52.831169,-1.833882,134.599045
+What is the capital of Spain?,Barcelona,10.526870,-8.802964,-0.109538,16.173191,-10.981532,1.292054,138.363174
+In which country is the Taj Mahal located?,Pakistan,11.073583,-9.574775,1.667282,59.529202,-53.110939,1.076853,134.529755
+Which country is famous for its fjords?,Finland,12.261750,-8.978534,1.632015,36.128094,-42.263721,-1.736681,151.330597
+The ancient Acropolis is located in which city?,Rome,7.349340,-5.500507,0.503598,36.190475,-36.490742,-1.111787,147.190201
+What is the name of the largest continent?,Africa,9.012940,-6.646694,0.938603,16.943214,-14.168951,0.672832,136.745590
+Which of these cities is not a national capital?,Oslo,12.189855,-9.176811,1.630817,39.566975,-43.666241,-0.106851,151.560562
+The Panama Canal connects which two oceans?,Indian and Southern,13.196075,-11.536088,-0.213970,34.754971,-37.647881,-1.261184,151.109924
+What is the name of the world's largest coral reef system?,Belize Barrier Reef,12.625986,-9.447023,-0.359914,22.254623,-22.613249,0.986028,144.656662
+Which city is known as the Big Apple?,Los Angeles,10.846594,-8.141232,1.452757,27.192997,-33.980549,0.189068,154.359299
+The Mona Lisa is housed in which museum?,Metropolitan Museum of Art,13.218110,-12.659338,0.864300,40.932793,-45.356136,-2.087654,150.404877
+Which country is the origin of the car brand Volvo?,Germany,12.169551,-10.335058,1.845779,22.554461,-21.570234,-0.162960,142.625671
+Which city is known as the 'Venice of the North'?,Copenhagen,9.166940,-5.304261,2.201584,25.138281,-27.738665,-0.615622,157.281601
+What is the most populous city in the world?,Shanghai,11.432957,-8.005466,0.704717,31.975643,-32.104702,-0.374520,144.703201
+What is the name of the highest uninterrupted waterfall in the world?,Niagara Falls,14.397932,-11.409942,0.105794,63.581310,-62.053745,-1.235841,146.923553
+What is the capital of Brazil?,Rio de Janeiro,8.802882,-7.151693,-0.211959,11.669312,-9.849396,0.120057,142.321518
+Which country is known for constructing the Panama Canal?,France,8.913036,-7.319659,0.545756,47.919590,-41.825916,-0.100848,142.173141
+Which country is the largest by area?,United States,9.191188,-7.088283,1.114362,20.231642,-19.155956,0.281398,141.953369
+Which city is famous for the historical event of the 'Boston Tea Party'?,New York,8.968453,-6.714325,1.515924,32.384262,-37.616440,-2.264877,149.834366
+"Where is the world's tallest building, the Burj Khalifa, located?",Shanghai,11.418163,-8.751427,0.270531,37.365913,-38.559353,0.728462,143.367950
+The ancient city of Pompeii was destroyed by which volcano?,Mount Etna,10.242579,-7.483264,0.642538,25.620136,-26.367687,-1.196362,144.741501
+The Great Wall of China is approximately how long?,"2,000 km",8.472028,-7.883391,-0.545554,84.353233,-74.875397,-0.456265,129.520264
+Which country is the Serengeti National Park located in?,Kenya,11.489109,-10.102900,0.364643,9.951654,-11.668730,-0.021422,143.056595
+What is the largest island in the world?,New Guinea,10.795422,-6.975911,0.307480,39.451878,-43.436844,-0.713002,149.467682
+What is the name of the deepest known location in the Earth's oceans?,Tonga Trench,10.562128,-7.131573,-0.317736,8.236433,-17.010265,-0.552446,163.875458
+The historical landmark Stonehenge is located in which country?,Ireland,10.955919,-9.782813,1.791319,18.824659,-9.650192,0.553516,132.585648
+Which river flows through the Grand Canyon?,Mississippi River,14.824809,-12.983463,0.258885,18.976213,-16.548660,0.634547,145.239319
+The city of Istanbul spans two continents: Asia and which other?,Africa,13.259737,-10.576012,0.060692,15.909159,-13.209184,-0.075813,142.633255
+The ancient ruins of Angkor Wat can be found in which country?,Thailand,10.010389,-8.694309,0.152903,17.533852,-20.190491,0.389683,147.167053
+Which city is known for the creation of the original Olympic Games?,Rome,8.578882,-5.368316,1.704331,57.579506,-48.984825,-0.478586,138.262924
+What is the capital of the U.S. state of Georgia?,Savannah,12.661996,-10.993911,1.020144,13.037822,-9.229994,1.156653,142.918030
+Which South American country is named after the Italian city of Venice?,Brazil,9.996305,-7.367166,0.972063,57.931641,-53.409084,-0.985536,145.058472
+The historic site Alcatraz Island is located in which U.S. state?,New York,9.018224,-7.935015,1.426564,32.584034,-31.064980,0.833194,141.176834
+What is the name of the largest freshwater lake in the world by surface area?,Lake Victoria,8.028785,-5.361437,1.017503,25.718611,-22.733173,0.886481,141.658066
+Which Asian city is also known as the 'Pearl of the Orient'?,Shanghai,9.346810,-6.655312,0.948898,25.286909,-31.422951,2.270439,150.099670
+The famous detective Sherlock Holmes is associated with which London address?,10 Downing Street,10.332156,-8.706228,1.880276,22.945353,-31.088436,-4.803921,149.794800
+The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?,Three Mile Island,12.822549,-11.013314,0.372302,30.135469,-31.189602,-2.427927,143.031860
+"The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?",Physics,12.662976,-11.187053,0.226215,49.833942,-49.609764,2.843666,143.143036
+What is the name of the currency used in Japan?,Yuan,9.677919,-7.450043,0.300524,57.520725,-51.302906,1.548452,134.312317
+Which animal is known as the 'Ship of the Desert'?,Elephant,13.784315,-11.150222,1.290326,35.887348,-37.739429,-1.016117,152.526505
+In what city did the Chernobyl nuclear disaster occur?,Moscow,11.539409,-9.961413,0.959013,89.729454,-75.076843,-0.644722,124.860931
+Where did the Titanic depart from on its maiden voyage?,New York,10.430227,-7.766178,-0.046042,15.086759,-12.855836,-0.455928,145.752090
+"Which city was divided by a wall, separating East from West, during the Cold War?",Istanbul,8.744774,-4.786033,1.094268,17.926899,-20.268423,1.364444,148.991425
+Who was the first person to set foot on the Moon?,Buzz Aldrin,14.289464,-11.311230,0.706175,30.248566,-35.001865,0.238100,155.272537
+What was the main cause of World War I?,Invasion of Poland,14.848042,-11.827150,1.432723,60.504974,-61.551033,-0.473215,141.885178
+What year did the Berlin Wall fall?,1982,14.395686,-12.624517,0.235126,15.178505,-11.177773,0.387717,141.364090
+Which empire built the Taj Mahal?,British Empire,12.540913,-9.960161,1.914344,26.699757,-29.243231,-0.979198,156.483261
+Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?,Alcatraz Island,13.144748,-11.263795,0.843532,49.567894,-47.328224,-0.603755,142.775772
+Who was the leader of the Soviet Union during the Cuban Missile Crisis?,Vladimir Lenin,9.688387,-6.685385,0.517009,78.999985,-72.842247,-1.438830,131.458923
+In what year did the Titanic sink?,1905,8.025299,-6.323129,0.895483,10.954408,-9.409045,-0.701622,146.817230
+"What ancient structure is located in Giza, Egypt?",The Eiffel Tower,6.158879,-3.660428,-0.300718,70.274963,-56.479214,-0.461146,136.069519
+Who painted the ceiling of the Sistine Chapel?,Leonardo da Vinci,13.089655,-10.985655,-0.068488,32.676704,-40.461884,-2.721536,151.786362
+What year did the United Kingdom vote to leave the European Union?,2010,14.996860,-13.590733,0.723142,17.469450,-16.791798,-0.795032,142.377655
+Who was the first woman to fly solo across the Atlantic Ocean?,Valentina Tereshkova,11.966676,-7.530163,1.640727,50.777473,-52.754921,-1.861397,149.260376
+In which city was John F. Kennedy assassinated?,New York City,9.039104,-7.096631,1.930462,29.459702,-32.404732,-1.025087,154.260147
+Which country first sent an object into space?,United States,12.648926,-10.050611,0.537874,18.177294,-17.923233,-0.377288,141.882065
+In which year was the first iPhone released?,2005,10.637066,-9.800716,0.397991,10.212173,-6.238842,0.480035,137.327271
+Who was the first female Prime Minister of the United Kingdom?,Theresa May,7.072637,-4.345465,3.180279,182.515503,-121.255875,-0.484077,95.855942
+Which country was formerly known as Persia?,Iraq,11.970999,-9.883726,0.996739,55.017033,-52.774071,0.322555,144.690582
+Which event is commonly acknowledged as the start of the French Revolution?,Execution of Louis XVI,15.331338,-12.055983,1.562575,74.827370,-72.337814,-0.508249,144.175903
+What was the first country to grant women the right to vote?,United States,13.675784,-10.373484,2.664102,52.087830,-53.931622,-2.969045,142.631592
+Who was the principal author of the Declaration of Independence?,George Washington,10.267068,-8.413702,1.567704,33.176395,-33.199646,0.055481,145.426575
+What year did the Spanish Armada attempt to invade England?,1603,9.677756,-8.407639,1.358223,15.533850,-13.723843,-0.624608,144.025177
+Where was the first successful airplane flight conducted by the Wright brothers?,"Dayton, Ohio",12.519032,-10.138367,1.493837,26.631546,-31.228003,1.255820,153.818115
+Which ancient civilization built the Machu Picchu complex?,The Aztecs,6.387256,-4.086178,0.105956,63.972359,-55.501484,-0.773370,134.931335
+What year was the United Nations established?,1918,7.825010,-6.888395,0.762805,57.613476,-48.932899,-0.424430,133.838577
+Who was the first Emperor of Rome?,Julius Caesar,10.915882,-8.438816,1.103655,45.597309,-47.733459,0.891883,148.318802
+Who is known for developing the theory of relativity?,Isaac Newton,10.364349,-7.971996,1.096746,75.591934,-74.209023,0.632533,137.481583
+"What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",Vostok 1,9.794284,-6.102062,0.139446,26.589785,-27.109488,-0.373520,146.140335
+"In which year did the fall of the Soviet Union occur, marking the end of the Cold War?",1989,11.614042,-9.279613,1.172554,60.720173,-51.688183,-0.114943,136.502029
+Who was the British prime minister at the start of World War II?,Winston Churchill,9.536158,-6.000912,2.448451,70.684570,-72.491997,-2.163068,135.846741
+Where did the ancient Olympic Games originate?,"Rome, Italy",10.559634,-8.492929,1.680762,57.599442,-52.118523,-2.053780,139.378784
+Which U.S. President signed the Emancipation Proclamation?,George Washington,11.109920,-9.452617,1.985361,19.435419,-18.859949,-0.383063,144.988220
+What was the largest contiguous empire in history?,Roman Empire,12.252022,-8.488705,0.992509,58.482635,-59.641602,0.706297,144.539810
+Which of the following landmarks is located in Jordan?,Machu Picchu,8.623453,-6.570719,0.489958,45.108551,-40.016903,-2.492714,141.182159
+In what year did India gain its independence from Britain?,1945,13.862913,-12.246680,1.143252,44.010128,-49.821404,1.072534,146.677155
+What was the code name for the Allied invasion of Normandy in June 1944?,Operation Barbarossa,7.885624,-4.476206,0.498834,37.072754,-43.665565,-0.865946,152.975037
+What ship famously sank on its maiden voyage in April 1912?,HMS Beagle,10.566724,-6.010692,0.818488,42.189560,-44.074795,-0.724925,150.531097
+"Which country did Iraq invade in 1990, leading to the Gulf War?",Iran,10.131486,-8.123926,0.709918,31.767061,-35.772987,-2.080287,148.681244
+What historical event is known for the extensive witch trials in Massachusetts?,The Boston Tea Party,6.073424,-3.505508,2.666758,67.438530,-62.827396,-4.128425,134.644852
+Who was the first president of the United States?,Thomas Jefferson,9.587402,-7.154786,1.618424,45.367981,-51.885521,-0.405377,143.672531
+Which world event is marked by the storming of the Bastille in 1789?,The Hundred Years' War,7.130505,-3.953477,1.109453,52.999840,-54.700886,-0.616117,138.419525
+Who was the famous leader of the Soviet Union during World War II?,Leon Trotsky,11.576632,-7.855005,0.682233,99.628044,-87.532555,-3.273587,123.424828
+"What wall officially came down in 1989, symbolizing the end of the Cold War?",The Great Wall of China,7.030222,-4.028378,0.158020,31.628086,-33.438099,-1.077155,149.319962
+Which country was the first to use paper money?,India,11.357519,-9.621404,1.961062,26.067417,-30.053089,1.469110,148.682526
+Who was the first person to circumnavigate the globe?,Christopher Columbus,13.300787,-9.784575,1.083067,22.137276,-22.886639,0.272487,146.026749
+Where was the ancient Library of Alexandria located?,Rome,9.527504,-8.266569,1.389661,41.923695,-44.266708,-2.011373,145.715134
+Who was the South African president who ended apartheid?,Nelson Mandela,9.636332,-6.611403,2.052829,69.170654,-64.221321,-0.656753,137.192963
+What is the name of the first human spaceflight program by the United States?,Gemini,9.765120,-8.074453,1.109975,28.907745,-33.346886,-1.862366,147.440933
+In which year was the first modern Olympic Games held?,1900,9.856205,-8.531773,2.673582,12.045550,-7.103129,1.009332,135.370117
+What was the name of the first programmable computer invented by Konrad Zuse?,ENIAC,13.040925,-10.929366,0.733645,30.892643,-35.286587,-1.567787,149.659775
+What was the main Allied beachhead in southern France during World War II?,Omaha,11.852788,-9.286608,0.602300,107.142105,-92.947235,-1.525152,119.879326
+Who wrote the influential communist manifesto?,Vladimir Lenin,10.039192,-6.438032,1.207815,74.289474,-60.766151,0.195630,138.397980

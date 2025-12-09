@@ -1,0 +1,129 @@
+question,answer,loss_before,logit_before,feat_before,loss_after,logit_after,feat_after,euclid_drift
+In which year did Hurricane Ana occur?,2014,11.174870,-9.911073,4.644551,11.420816,-7.073112,0.569620,134.856537
+In which year did epidemic of Ebola virus disease occur?,2013,11.071951,-10.433440,4.527026,10.265745,-6.043456,0.455497,132.540863
+In which year did case of Ashya King concerns a boy named Ashya King occur?,2014,12.038575,-11.738059,4.277384,8.195085,-9.395446,-0.740835,144.699585
+In which year did 67th British Academy Film Awards occur?,2014,12.370538,-12.062123,5.469705,15.176792,-12.066276,0.370181,132.141022
+In which year did Cuban thaw occur?,2014,11.110618,-10.493125,5.800019,11.482755,-9.462208,0.325300,143.519638
+In which year did 2014 Berlin Marathon occur?,2014,8.141953,-7.430874,5.063895,12.448824,-9.478366,0.189836,139.144226
+In which year did Operation Full Disclosure occur?,2014,10.631680,-9.457954,4.994329,9.552729,-8.441643,0.329346,146.084946
+In which year did Trojan Horse scandal occur?,2013,11.057116,-10.370552,3.763916,9.681595,-6.641488,0.238199,140.986038
+In which year did Paris Municipal elections took place on 23 and 30 March occur?,2014,11.608466,-11.363509,4.700862,9.117135,-7.995076,-0.157244,140.499695
+In which year did 2014 Gaza War occur?,2014,7.790726,-6.813774,4.146254,32.459694,-29.706663,1.425643,142.592697
+In which year did On the morning of 18 November 2014 occur?,2014,8.503040,-7.786690,4.375240,9.264036,-5.801292,-0.239011,142.155563
+In which year did Marius occur?,2012,11.701488,-11.139937,4.690344,15.414227,-12.587368,0.558481,144.453598
+In which year did A photograph of then-Labour Party leader Ed Miliband occur?,2014,10.293995,-9.927417,5.291852,9.518289,-6.482892,0.370469,140.625595
+In which year did March in March refers to a series of marches which occur?,2014,10.813038,-10.390489,4.372319,14.916397,-6.298851,0.844065,135.631393
+In which year did 2013–2014 Atlantic winter storms in Europe occur?,2013,10.527874,-9.228342,3.820618,11.229137,-7.335781,0.092890,135.947342
+In which year did Conference of Western Balkan States occur?,2014,10.669910,-9.877916,4.872296,8.840714,-5.525688,0.483499,136.316956
+In which year did 2014 Kalbajar incident refers to the crossing of occur?,2014,7.006084,-6.275154,4.170356,19.600319,-20.895039,0.008022,145.050980
+In which year did Art Buff occur?,2014,10.694965,-10.180532,4.649040,11.186661,-7.899193,0.442268,142.529495
+In which year did war on terror occur?,2003,11.340926,-10.322338,4.833696,8.633609,-5.490747,0.140087,146.073822
+In which year did Hamas formation occur?,2007,10.357113,-9.943243,5.131589,11.766199,-12.777810,-0.013153,144.838577
+In which year did Election to the 6th convocation of the Moscow City Duma took place on the United Voting Day on September 14 occur?,2014,11.048034,-10.331614,5.586467,8.816473,-7.696913,0.305608,140.948502
+In which year did Abkhazian Revolution took place occur?,2014,11.346160,-11.050739,5.336977,7.592866,-5.622290,-0.061321,141.821777
+In which year did Organizations from around the world responded to the occur?,2014,9.693224,-9.168997,3.969659,53.074371,-47.517395,1.789547,139.846588
+In which year did 2014–2016 Croatian war veterans tent protest was 555 occur?,2014,7.860963,-6.997432,5.460862,12.811842,-14.787651,0.611331,148.156052
+In which year did Japanese whaling occur?,1890,9.935439,-9.366325,4.796105,30.215672,-28.034975,0.553244,147.566620
+In which year did General elections occur?,2014,11.204916,-10.633381,5.757276,12.853230,-15.620155,-2.380522,150.620941
+In which year did Presidential elections occur?,2014,11.180038,-10.126616,5.096658,9.772019,-5.943333,0.262917,138.909882
+In which year did Simon Hall occur?,1977,11.537735,-11.275558,4.745728,62.222378,-52.282852,1.806209,140.423904
+In which year did Talking Statues occur?,2013,10.051273,-9.388210,4.242469,9.554407,-7.210381,0.506533,144.674179
+In which year did 6th BRICS summit occur?,2010,9.870975,-9.462364,5.035693,23.263577,-24.481941,0.512196,144.162308
+In which year did William Tyrrell occur?,2011,11.635705,-11.492428,4.997175,13.175562,-9.824636,0.401292,143.832809
+In which year did During the ongoing Russo-Ukrainian War between the Ukrainian government forces and pro-Russian separatists in the Donbas region of Ukraine that began in April 2014 occur?,2014,9.627398,-8.459011,4.467741,7.902588,-5.657926,-0.050910,137.674896
+In which year did Operation Car Wash occur?,2014,11.126781,-10.232101,4.486330,9.122900,-5.635001,0.500333,143.423279
+In which year did Euromaidan occur?,2013,10.837146,-9.751949,6.012025,9.913273,-6.918708,0.339760,138.786362
+In which year did 2013–2014 Israeli–Palestinian peace talks occur?,2013,9.502301,-8.455990,4.912867,30.167940,-30.137470,-0.533633,143.735367
+In which year did Around midday on October 22 occur?,2014,10.215092,-10.080687,3.225525,10.894907,-10.611583,-0.339612,141.036530
+In which year did third edition of the Champs-Élysées Film Festival occur?,2014,11.529633,-11.363968,5.199113,10.273306,-5.992251,0.673606,136.657990
+In which year did following addresses the events in Northern Afghanistan occur?,2009,9.724904,-8.943887,4.900036,10.578898,-7.252550,0.108143,141.331665
+In which year did 2014 Australian federal budget occur?,2014,7.948006,-7.229659,3.728933,6.907051,-8.452547,0.917626,151.410141
+In which year did Report of the Commission of Inquiry on Human Rights in the Democratic People's Republic of Korea occur?,2013,9.688914,-9.852870,4.862387,9.126082,-9.296534,-1.087060,139.113678
+In which year did Fantastica Mania 2014 occur?,2014,9.496300,-9.106289,3.299868,49.262856,-44.343521,2.445811,137.383026
+In which year did Argentine debt restructuring occur?,2005,12.095434,-11.516657,5.391629,10.798441,-6.861646,0.366252,138.135880
+In which year did Toronto Rock occur?,2014,11.012564,-10.367323,5.001524,10.538998,-7.622507,0.322262,144.635742
+In which year did Declared in June 2014 occur?,2014,9.285336,-8.366761,4.387424,12.621103,-16.370733,-1.445145,155.801880
+In which year did Julieka Ivanna Dhu occur?,2014,10.639018,-10.471439,3.917788,15.085587,-7.402404,1.002185,134.369705
+In which year did Between 13 and 18 May a low-pressure cyclone designated Tamara and Yvette affected a large area of Southeastern and Central Europe occur?,2014,12.254520,-11.314252,5.280650,17.421597,-20.059389,3.227913,148.645798
+In which year did Arturo occur?,1985,12.155516,-11.444744,5.047105,16.240599,-14.953725,0.620853,146.534973
+In which year did Malaysia Airlines Flight 17 occur?,2014,10.593472,-9.187481,4.921846,9.444805,-6.295636,0.112257,138.623032
+In which year did Karen Petrosyan v occur?,2014,12.072852,-12.247570,4.892478,15.210781,-6.287384,0.622752,132.064682
+In which year did analysis of communications between Malaysia Airlines Flight 370 and Inmarsat's satellite telecommunication network provide the primary source of information about Flight 370's location and possible in-flight events after it disappeared from military radar coverage at 2:22 Malaysia Standard Time occur?,2014,9.992570,-8.704432,5.344765,14.078827,-17.853291,1.996320,148.059479
+In which year did Bulgarian protests against the Oresharski cabinet occur?,2013,11.206834,-10.951242,6.377617,10.849860,-10.623851,-0.113937,143.090622
+In which year did Lars Joachim Mittank occur?,1986,12.092237,-12.027092,5.208588,11.943298,-7.845932,0.537223,138.322342
+In which year did concept of Targeted Poverty Alleviation occur?,2014,10.510686,-9.860782,4.786801,7.577714,-5.549764,0.114838,142.527527
+In which year did US Presidential elections occur?,2014,11.227695,-10.130016,4.627608,9.022505,-5.446489,-0.054197,140.230621
+In which year did Brazilian Anti-Corruption Act occur?,2014,10.733451,-10.259888,4.622217,9.358192,-6.112626,0.456247,138.288651
+In which year did 2014 Gaza Valley airstrike occur?,2014,7.822379,-6.967018,4.244866,21.084682,-19.666809,0.799689,141.429031
+In which year did Spy Booth occur?,2013,10.586362,-9.833198,4.619123,9.633493,-6.768592,0.429530,145.713699
+In which year did 2014 Nuclear Security Summit occur?,2014,7.251077,-6.520077,4.708473,22.748230,-21.985695,1.628883,143.691956
+In which year did 2014 Toronto Argonauts season occur?,2014,8.152924,-7.595263,3.804660,15.526037,-6.653102,0.828149,133.176651
+In which year did 2013–14 North American winter occur?,2013,9.898750,-8.508276,3.917862,12.583950,-11.283794,-0.386778,141.494919
+In which year did it snowed on December 29 in NY occur?,2013,10.022738,-9.392397,4.107206,21.565529,-23.063251,0.610363,143.865356
+In which year did 2014 unrest in Bosnia and Herzegovina occur?,2014,8.750196,-8.262642,5.195672,8.816996,-13.664959,-0.433882,149.788071
+In which year did World Cultural Council performed its 31st Award Ceremony on November 17 occur?,2014,10.627346,-10.339993,4.616758,10.353531,-10.353798,-0.301301,142.943085
+In which year did American immigration crisis occur?,2014,11.632681,-10.519329,5.296758,9.387852,-6.350670,0.372413,142.638519
+In which year did MS Norman Atlantic occur?,2014,10.913443,-10.073221,4.344692,10.358777,-7.564691,0.270705,141.584778
+In which year did Thai political crisis occur?,2013,11.097884,-10.144777,4.494826,7.255899,-7.418400,-0.412405,145.830063
+In which year did Schellenberg smuggling incident occur?,2014,11.141084,-10.720754,5.014775,10.043394,-6.854429,0.535512,141.911270
+In which year did UEC European Track Championships occur?,2014,10.655026,-10.242364,4.148721,10.446074,-7.124247,-0.171901,135.467636
+In which year did In July occur?,2014,10.783767,-10.601222,4.732303,8.547722,-7.767135,0.255947,146.531647
+In which year did Sundarbans oil spill occur?,2014,10.382159,-9.640470,4.481500,10.379006,-8.104028,0.273316,140.472076
+In which year did Suez Canal Corridor Area Project occur?,2014,11.283672,-10.639197,4.917602,9.264177,-6.712919,0.385773,141.603271
+In which year did ARSAT-1 occur?,2014,11.399581,-10.758533,4.722406,10.787134,-7.610820,0.476239,139.513947
+In which year did 40th G7 summit occur?,2014,10.484108,-9.837744,4.495685,9.056543,-6.307281,0.088319,141.313965
+In which year did Gutter oil occur?,2014,11.323249,-10.876014,4.682007,11.058228,-8.069731,0.553917,143.946228
+In which year did Burkina Faso uprising occur?,2014,10.375141,-9.983250,5.275464,8.809218,-6.366013,-0.153328,141.672318
+In which year did third competition weekend of the 2014–15 ISU Speed Skating World Cup will be held in Sportforum Hohenschönhausen in Berlin occur?,2014,10.694489,-9.185956,3.148189,14.428190,-15.940796,-0.496962,137.023621
+In which year did Wrestle Kingdom 8 in Tokyo Dome occur?,2014,11.272467,-11.065926,3.233451,4.873333,-6.604328,1.086664,147.294067
+In which year did Typhoon Hagupit occur?,2014,11.705942,-10.271887,4.528570,35.627251,-36.011372,0.573909,143.359695
+In which year did Kasta Tomb occur?,1964,13.673525,-12.724232,4.390242,10.988866,-6.255050,0.786328,140.935455
+In which year did Battle of Shuja'iyya occurred between the Israel Defense Forces and the Izz ad-Din al-Qassam Brigades on 20 July 2014 during 2014 Israel–Gaza conflict in the Shuja'iyya neighborhood of Gaza City occur?,2014,10.874784,-10.087632,4.918602,4.759480,-7.405917,-1.410384,144.731354
+In which year did Belarus participated in the Eurovision Song Contest 2014 occur?,2014,10.160167,-10.462225,5.385369,9.743322,-8.597189,-0.824017,148.194992
+In which year did Willis Resilience Expedition occur?,2013,9.827332,-9.595890,4.097361,9.932566,-7.552114,0.238219,142.251923
+In which year did An internal conflict in the Central African Republic occur?,2013,10.714903,-10.191867,4.557635,9.278105,-6.372820,-0.089212,137.295532
+In which year did Georgia joined the war in Afghanistan in 2004 and the country had become the largest non-NATO and the largest per capita troop contributor to the International Security Assistance Force in Afghanistan by late 2012 occur?,2004,12.204738,-11.333375,4.397335,13.548964,-7.533844,1.009462,130.930161
+In which year did Presidential elections occur?,2014,11.180038,-10.126616,5.096658,9.772019,-5.943333,0.262917,138.909882
+In which year did Global Wars occur?,2014,10.236680,-9.151036,2.832190,10.363626,-9.236468,-0.241316,144.191635
+In which year did Dzhumaya Mosque occur?,1363,9.993864,-9.210291,6.588840,22.263145,-26.544186,0.458911,150.864960
+In which year did 2015 World Junior Ice Hockey Championships occur?,2015,7.010094,-6.695571,3.789609,6.659682,-3.981171,-0.095527,141.523163
+In which year did Air Algérie Flight 5017 occur?,2014,11.712397,-11.013411,4.532836,10.850097,-7.170110,0.428939,138.378937
+In which year did 2014 DFB-Pokal Final decided the winner of the 2013–14 DFB-Pokal occur?,2014,7.300079,-7.186243,4.241034,4.482720,-3.597587,-0.233756,141.849838
+In which year did 2013–2014 chikungunya outbreak represented the first recorded occur?,2013,9.785011,-9.360957,4.354815,30.599646,-32.273800,1.655475,141.458969
+In which year did 2014 United Nations Security Council election occur?,2014,12.967728,-11.818673,4.158626,15.407236,-7.328682,0.914467,127.144508
+In which year did On the afternoon of 24 May 2014 occur?,2014,8.712208,-8.197157,4.347126,10.214205,-6.839251,-0.119226,142.968597
+In which year did Estación Polar Científica Conjunta Glaciar Unión occur?,2014,11.278335,-10.449012,5.126978,13.571453,-11.484370,-0.335048,135.012192
+In which year did 4th Magritte Awards ceremony occur?,2013,10.646630,-10.972516,5.453249,10.099578,-13.234169,-1.162584,153.306351
+In which year did Vienna Summer of Logic occur?,2014,11.360622,-10.793020,5.857256,10.461693,-7.706993,0.262332,141.536575
+In which year did Minsk agreements occur?,2014,10.630653,-9.991286,5.122976,9.555757,-6.396540,0.449421,142.348618
+In which year did Delhi-Kathmandu bus occur?,2014,11.764357,-11.101521,4.290325,11.136761,-7.820240,0.731972,137.518219
+In which year did Eleanor Poppy Miranda de Freitas occur?,1990,11.709738,-11.197814,4.461225,9.614011,-5.805983,0.467859,140.157303
+In which year did United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic occur?,2014,10.868476,-10.274652,4.155921,16.025763,-18.360765,-1.079628,148.911942
+In which year did Opération Chammal occur?,2014,11.946533,-11.252753,5.227962,10.490123,-6.850534,0.603246,141.409653
+In which year did Protests against the 2013 Egyptian coup d'état erupted occur?,2013,8.875971,-8.402765,5.229750,11.317545,-10.371387,-0.557846,140.692871
+In which year did 2014–15 North American winter occur?,2014,9.890422,-8.483587,4.090653,12.883134,-11.598907,-0.408195,141.852966
+In which year did 19th Empire Awards ceremony occur?,2013,10.966410,-11.137281,5.447046,11.259352,-11.437981,0.162801,141.580048
+In which year did Patagotitan occur?,2014,12.222876,-11.533210,4.187213,13.612962,-9.567863,0.575873,140.348404
+In which year did José Salvador Alvarenga occur?,1975,12.437953,-11.898024,6.103119,47.576130,-40.362293,1.370508,141.353516
+In which year did Eurovision Song Contest 2014 occur?,2014,10.546968,-10.327638,5.190320,11.408965,-7.065651,0.413719,133.988770
+In which year did War of 1812 Monument occur?,1812,6.982471,-6.536682,4.713352,12.010669,-9.863136,0.247795,144.659927
+In which year did Parliamentary elections occur?,2014,10.779268,-10.128151,5.464660,8.453946,-5.519406,-0.048198,140.088074
+In which year did Anti-government protests occur?,2013,10.330958,-9.684328,4.667645,9.366287,-6.352518,0.131624,140.505768
+In which year did Presidential elections occur?,2014,11.180038,-10.126616,5.096658,9.772019,-5.943333,0.262917,138.909882
+In which year did Hai Yang Shi You 981 standoff occur?,2014,11.461076,-11.185696,4.637846,9.215736,-7.054199,-0.536583,140.342224
+In which year did 2014 Pentecost weekend storms in Europe occur?,2014,8.379978,-7.123811,4.289155,11.405768,-10.631340,-0.555591,143.882751
+In which year did Malaysia Airlines Flight 370 occur?,2014,10.115003,-8.527572,4.827605,9.377541,-6.729509,-0.007911,140.068359
+In which year did General elections occur?,2014,11.204916,-10.633381,5.757276,12.853230,-15.620155,-2.380522,150.620941
+In which year did Rotherham child sexual exploitation scandal consists of the organised child sexual abuse that occurred in the town of Rotherham occur?,1980,11.894819,-12.056423,4.868936,9.487572,-7.515160,0.191703,142.476471
+In which year did Zhengzhou Airport riot occurred on 5–6 February occur?,2014,11.981207,-11.501799,4.626717,8.805679,-10.713096,1.042756,148.273758
+In which year did 2014 Toronto municipal election occur?,2014,8.692748,-8.669402,5.399691,11.691920,-6.899440,0.212078,133.191467
+In which year did Chang'e 5-T1 occur?,2014,11.133889,-10.724700,4.571219,11.292814,-7.058699,0.618870,136.071121
+In which year did Following the simultaneous federal elections and regional elections of 25 May 2014 occur?,2014,10.681790,-10.169982,3.974607,12.200475,-5.096911,0.518901,126.385445
+In which year did Before the Dawn occur?,2014,11.175716,-10.254013,4.084677,10.244204,-6.469345,0.473657,141.437500
+In which year did blockade of the Gaza Strip occur?,2005,11.275736,-10.655600,5.027070,12.269100,-13.097115,-0.103987,144.649185
+In which year did Mercedes-Benz Fashion Week occur?,2014,9.964183,-9.310553,4.026800,9.347054,-6.348220,0.504122,139.886414
+In which year did 2014–2016 Croatian war veterans tent protest was 555 occur?,2014,7.860963,-6.997432,5.460862,12.811842,-14.787651,0.611331,148.156052
+In which year did General elections occur?,2014,11.204916,-10.633381,5.757276,12.853230,-15.620155,-2.380522,150.620941
+"In which year did Azerbaijan participated in the Eurovision Song Contest 2014 with the song ""Start a Fire"" written by Stefan Örn occur?",2014,9.142042,-9.537292,6.300887,8.577105,-7.046885,-1.142025,138.843201
+In which year did Colombian peace process occur?,2012,10.444500,-9.918330,5.595407,12.357052,-9.323382,0.523552,140.200150
+In which year did Brit Awards 2014 occur?,2014,8.980754,-8.572908,4.792792,9.440634,-6.850054,-0.072001,142.790451
